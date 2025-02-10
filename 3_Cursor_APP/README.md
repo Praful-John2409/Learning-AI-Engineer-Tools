@@ -1,2 +1,2 @@
-# Leveraging Cursor to build a Mnist classifier
+# Leveraging Cursor to build an Mnist classifier
 
